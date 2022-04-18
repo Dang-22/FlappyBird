@@ -1,0 +1,16 @@
+C:\Users\dangk\source\repos\makeagame\makeagame\bin\Debug\netcoreapp3.1\makeagame.exe
+C:\Users\dangk\source\repos\makeagame\makeagame\bin\Debug\netcoreapp3.1\makeagame.deps.json
+C:\Users\dangk\source\repos\makeagame\makeagame\bin\Debug\netcoreapp3.1\makeagame.runtimeconfig.json
+C:\Users\dangk\source\repos\makeagame\makeagame\bin\Debug\netcoreapp3.1\makeagame.runtimeconfig.dev.json
+C:\Users\dangk\source\repos\makeagame\makeagame\bin\Debug\netcoreapp3.1\makeagame.dll
+C:\Users\dangk\source\repos\makeagame\makeagame\bin\Debug\netcoreapp3.1\makeagame.pdb
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.csprojAssemblyReference.cache
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.Form1.resources
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.Properties.Resources.resources
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.csproj.GenerateResource.cache
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.AssemblyInfoInputs.cache
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.AssemblyInfo.cs
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.csproj.CoreCompileInputs.cache
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.dll
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.pdb
+C:\Users\dangk\source\repos\makeagame\makeagame\obj\Debug\netcoreapp3.1\makeagame.genruntimeconfig.cache
